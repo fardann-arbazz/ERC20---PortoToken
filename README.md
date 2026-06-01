@@ -331,7 +331,7 @@ foundryup
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/fardann-arbazz/ERC20---PortoToken.git
 cd smart-contract
 
 # Install dependencies (forge-std submodule)
